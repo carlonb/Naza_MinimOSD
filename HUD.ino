@@ -5,6 +5,7 @@
 #include "Config.h"
 #include "GlobalVariables.h"
 
+
 boolean gps_process(void);
 
 // Screen is the Screen buffer between program an MAX7456 that will be writen to the screen at 10hz
